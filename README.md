@@ -1,7 +1,7 @@
 # Quiz Game Documentation
 
 ## Introduction
-The Quiz Game is a simple command-line program written in C. It allows users to play a quiz game, login/signup to their account, and for administrators to manage quiz questions. Users can play the quiz, view their scores, and administrators can add/remove quiz questions.
+The Quiz Game is a simple command-line program written in C. It allows users to play a quiz game, login/signup to their account, and for administrators to manage quiz questions. Users can play the quiz, view their scores, and administrators can add/remove quiz questions. 
 
 ## Features
 - **User Authentication:** Users can login/signup to their account to play the quiz.
